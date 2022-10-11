@@ -1,0 +1,85 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic');
+
+.footer__container {
+   margin-bottom: 50px;
+}
+
+
+.createx__container {
+	max-width: 811px;
+	margin: 0 auto;
+	font-family: 'Lato';
+	color: rgba(66, 69, 81, 1);
+
+}
+.createx__title {
+   font-weight: 900;
+	font-size: 46px;
+	line-height: 59.8px;
+	margin-bottom: 26px;
+}
+.createx__image {
+	margin-bottom: 60px;
+}
+.createx__content {
+	color: rgba(30, 33, 44, 1);
+}
+.content {
+}
+.content__text {
+	font-size: 16px;
+	line-height: 25.6px;
+	margin-bottom: 60px;
+}
+.content__paragraph-one {
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 30px;
+	margin-bottom: 24px;
+}
+.content__paragraph-two {
+	margin-bottom: 26px;
+}
+
+.paragraph-three {
+   margin-bottom: 48px;
+}
+
+blockquote {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+	color: rgba(30, 33, 44, 1);
+	padding-left: 58px;
+	margin-bottom: 48px;
+	background: url('../image/icon/braces.svg') 0 0 / auto auto no-repeat;
+}
+
+.paragraph-four {
+	margin-bottom: 24px;
+}
+
+.content__list {
+	margin-bottom: 24px;
+
+}
+
+.list-content {
+}
+
+.list-content__item {
+	margin-bottom: 4px;
+	line-height: 25.6px;
+	padding: 10px 0 0 32px;
+	background: url('../image/icon/check.png') 0px 15px / 16px 16px no-repeat;
+	
+}
+
+.content__paragraph-four {
+	
+}
+
+
+
